@@ -17,7 +17,7 @@ Ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender pa
 - Google Colab
 - Jupyter Notebooks
 
-## ⚙️ Instrucciones de uso
+## ⚙️ Instrucciones para ejecutar el notebook:
 
 - Descarga el archivo AluraStoreLatam.ipynb
 - Inicia sesion con tu cuenta de Gmail
@@ -26,4 +26,4 @@ Ayudar al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender pa
 - Luego la pestaña subir
 - Sube el archivo AluraStoreLatam.ipynb
 - Ejecuta las celdas en orden desde la primera hasta la ultima
- 
+
